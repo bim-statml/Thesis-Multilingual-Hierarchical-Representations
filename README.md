@@ -17,5 +17,3 @@ Run `store_matrices_bm.ipynb` first to store the unembedding vectors, before you
 - [**`1.1_Germanic_nouns.ipynb`**](1_Germanic_nouns.ipynb) and [**`1.2_Romance_nouns.ipynb`**](1.2_Romance_nouns.ipynb): Experiments based on sampled nouns, these are part of the results in the final report.
 - [**`2.1_Germanic_verbs.ipynb`**](2.1_Germanic_verbs.ipynb) and [**`2.2_Romance_verbs.ipynb`**](2.2_Romance_verbs.ipynb): Experiments based on sampled verbs, not part of final report.
 - [**`3.1_Germanic_adjectives.ipynb`**](2.1_Germanic_verbs.ipynb) and [**`3.2_Romance_adjectives.ipynb`**](2.2_Romance_verbs.ipynb): Experiments based on sampled adjectives, not part of final report.
-- [**`4_Verb_Test.ipynb`**](4_Verb_Test.ipynb): We validate the existence of the vector representations for each feature in WordNet verb hierarchy in Figure 9.
-- [**`5_Verb_Heatmap.ipynb`**](5_Verb_Heatmap.ipynb): We confirm that the hierarchical relation in WordNet verb hierarchy is encoded as orthogonality in Figure 10.
